@@ -1,4 +1,3 @@
 # Front-End-Web-Development
-TreeHouse track on front end development
 
-Template for my own baking website
+Template for my own baking website based on the TreeHouse track on front end development
