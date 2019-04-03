@@ -116,7 +116,6 @@ nav ul {
   padding: 0;
   margin: 0;
   font-size: 0.9em;
-  color: #599A68;
 }
 
 .contact-info a {
@@ -126,6 +125,7 @@ nav ul {
   background-size: 20px 20px;
   padding: 0 0 0 30px;
   margin: 0 0 10px;
+  color: #599A68;
 }
 
 .contact-info li.phone a {
