@@ -1,5 +1,5 @@
 header {
-  background: #bc8f8f;
+  background: #4169e1;
   float: left;
   margin: 0 0 30px 0;
   padding: 5px 0 0 0;
@@ -8,7 +8,7 @@ header {
 
 body{
   font-family: 'Josefin Sans', sans serif;
-  background-color: #fff;
+  background-color: #f0fff0;
   color: #2e8b57;
 }
 
@@ -89,15 +89,15 @@ nav ul {
   float: left;
   width: 45%;
   margin: 2.5%;
-  background-color: #bc8f8f;
-  color: #bdc3c7;
+  background-color: #4169e1;
+  color: #fffff0;
 }
 
 #gallery li a p {
   margin: 0;
   padding: 5%;
   font size: 2em;
-  color: #4b0082;
+  color: #fffacd;
 }
 
 #logo {
