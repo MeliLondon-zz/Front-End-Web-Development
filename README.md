@@ -4,4 +4,4 @@ Template for my own baking website based on the TreeHouse track on front end dev
 
 Created using HTML & CSS
 
-![personalbakingsite](https://user-images.githubusercontent.com/23058636/34328352-e1da2e78-e8d4-11e7-8884-d3fd00e37fb9.JPG)
+![GitHub Read Me Update](https://user-images.githubusercontent.com/23058636/57617903-d1088580-7579-11e9-8165-d4415fddf297.JPG)
